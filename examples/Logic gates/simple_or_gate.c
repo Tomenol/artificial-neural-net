@@ -13,8 +13,8 @@
 #include <math.h>
 #include <time.h>
 
-#include "NNetDef.h"
-#include "tools.h"
+#include "nn_core.h"
+#include "nn_tools.h"
 
 int main(void)
 {
