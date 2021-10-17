@@ -45,10 +45,10 @@ int main(void)
 
 	printf ("\n\n");
 
-    printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[0][0], input[0][1], *NNRunNNet(_nnet, input[0]),*NNRunNNet(_nnet, input[0]));
-    printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[1][0], input[1][1], *NNRunNNet(_nnet, input[1]),*NNRunNNet(_nnet, input[1]));
-    printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[2][0], input[2][1], *NNRunNNet(_nnet, input[2]),*NNRunNNet(_nnet, input[1]));
-    printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[3][0], input[3][1], *NNRunNNet(_nnet, input[3]),*NNRunNNet(_nnet, input[1]));
+   	printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[0][0], input[0][1], *NNRunNNet(_nnet, input[0]),*NNRunNNet(_nnet, input[0]));
+  	printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[1][0], input[1][1], *NNRunNNet(_nnet, input[1]),*NNRunNNet(_nnet, input[1]));
+  	printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[2][0], input[2][1], *NNRunNNet(_nnet, input[2]),*NNRunNNet(_nnet, input[1]));
+  	printf("\nOutput for [%1.f, %1.f] is %1.f at %f.\n\n", input[3][0], input[3][1], *NNRunNNet(_nnet, input[3]),*NNRunNNet(_nnet, input[1]));
 
 	printf ("\n\n");
 
