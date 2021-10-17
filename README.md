@@ -1,2 +1,2 @@
-# artificial-neural-net
-C++ artificial neural networks library
+# Artificial Neural Network Library
+Simple C artificial neural networks library.
